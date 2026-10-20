@@ -1,0 +1,366 @@
+{
+  "documento": "Ficha de admissao - Emporio Stampe",
+  "regra_basica": "Sempre preencher copia do modelo vazio. Modelo preenchido apenas como referencia. Nunca copiar valores ficticios.",
+  "campos_logicos": 50,
+  "widgets_pdf": 55,
+  "campos": [
+    {
+      "nome_tecnico": "nome",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "MARINA EXEMPLO ALMEIDA",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "cpf",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "000.000.000-00",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "nascimento",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "17/06/1992",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "naturalidade",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Brusque/SC",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "sexo",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Feminino",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "civil",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Casada",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "endereco",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Rua das Amostras",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "numero",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "100",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "complemento",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Apto 12",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "bairro",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Bairro Modelo",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "cidade",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Brusque",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "uf",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "SC",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "cep",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "00000-000",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "telefone",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "(00) 90000-0000",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "email",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "marina.exemplo@example.com",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "escolaridade",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Superior completo",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "cor_raca",
+      "tipo": "radio",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "rg",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "00.000.000-0",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "rg_emissor",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "SSP/SC",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "rg_emissao",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "18/04/2013",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "pis",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "000.00000.00-0",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "cnh",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "00000000000",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "cnh_categoria",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "B",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "cnh_uf",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "SC",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "cnh_validade",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "07/03/2034",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "cnh_emissao",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "07/03/2024",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "titulo",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "0000 0000 0000",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "zona",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "000",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "secao",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "000",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "mae",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "TEREZA EXEMPLO DA SILVA",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "pai",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "PAULO EXEMPLO DA SILVA",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "conjuge_nome",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "RAFAEL EXEMPLO ALMEIDA",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "conjuge_nascimento",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "15/09/1990",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "conjuge_naturalidade",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Joinville/SC",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "conjuge_cpf",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "111.111.111-11",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "filho1_nome",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "LUCAS EXEMPLO ALMEIDA",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "filho1_nascimento",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "21/08/2017",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "filho1_naturalidade",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Brusque/SC",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "filho1_cpf",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "222.222.222-22",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "filho2_nome",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "ANA EXEMPLO ALMEIDA",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "filho2_nascimento",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "10/02/2022",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "filho2_naturalidade",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Brusque/SC",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "filho2_cpf",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "333.333.333-33",
+      "responsavel": "colaborador - preencher se informado"
+    },
+    {
+      "nome_tecnico": "admissao",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "20/10/2026",
+      "responsavel": "RH - nao preencher automaticamente"
+    },
+    {
+      "nome_tecnico": "funcao",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Assistente Administrativo",
+      "responsavel": "RH - nao preencher automaticamente"
+    },
+    {
+      "nome_tecnico": "salario",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "2.950,00",
+      "responsavel": "RH - nao preencher automaticamente"
+    },
+    {
+      "nome_tecnico": "unidade",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "Empório Stampe - Administrativo",
+      "responsavel": "RH - nao preencher automaticamente"
+    },
+    {
+      "nome_tecnico": "experiencia_inicial",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "45",
+      "responsavel": "RH - nao preencher automaticamente"
+    },
+    {
+      "nome_tecnico": "experiencia_prorrogacao",
+      "tipo": "texto",
+      "valor_modelo_vazio": "",
+      "valor_exemplo_ficticio": "45",
+      "responsavel": "RH - nao preencher automaticamente"
+    },
+    {
+      "nome_tecnico": "jornada",
+      "tipo": "texto",
+      "valor_modelo_vazio": "Segunda a sexta: 08h às 18h | Intervalo: 12h às 13h12",
+      "valor_exemplo_ficticio": "Segunda a sexta: 08h às 18h | Intervalo: 12h às 13h12",
+      "responsavel": "RH - nao preencher automaticamente"
+    }
+  ],
+  "observacoes": [
+    "Valores tecnicos de radio devem ser conferidos na resposta real do pdf_inspect antes do pdf_fill.",
+    "Nunca copiar valores da ficha exemplo ao preencher uma pessoa real.",
+    "Campos de contratacao sao exclusivos do RH e nao devem ser preenchidos no fluxo de cadastro do colaborador.",
+    "Preservar o valor padrao de jornada do documento original, salvo operacao autorizada pelo RH.",
+    "Nao preencher campos ausentes ou divergentes. Consultar o colaborador/RH antes de prosseguir.",
+    "Um PDF preenchido retornado como recurso application/pdf ainda precisa ser convertido ou disponibilizado como download pela plataforma."
+  ]
+}
